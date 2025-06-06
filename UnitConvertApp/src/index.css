@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "concon";
+  src: url("./fonts/concon.ttf");
+}
+
+body {
+  font-family: "concon";
+  margin: 0;
+}
